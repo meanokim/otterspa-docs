@@ -1,0 +1,4 @@
+# GitHub Pages(Jekyll) 설정. 저장소 Settings → Pages → Branch: main, Folder: /
+title: 수달 찜질방 타이쿤
+lang: ko
+theme: jekyll-theme-minimal
