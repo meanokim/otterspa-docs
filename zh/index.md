@@ -9,6 +9,7 @@ lang: zh
 
 - [隐私政策](privacy)
 - [概率信息](odds)
+- [账号删除说明](delete-account)
 - 联系方式：omeano.kim@gmail.com
 
 [한국어](../) · [English](../en/) · [日本語](../ja/) · [Español](../es/)

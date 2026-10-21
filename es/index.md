@@ -9,6 +9,7 @@ Un juego de gestión idle en el que unas nutrias bebé convierten el viejo baño
 
 - [Política de privacidad](privacy)
 - [Probabilidades](odds)
+- [Eliminación de cuenta](delete-account)
 - Contacto: omeano.kim@gmail.com
 
 [한국어](../) · [English](../en/) · [日本語](../ja/) · [中文](../zh/)

@@ -8,6 +8,7 @@ title: 수달 찜질방 타이쿤
 
 - [개인정보처리방침](privacy.md)
 - [확률 정보](odds.md)
+- [계정 삭제 안내](delete-account.md)
 - 문의: omeano.kim@gmail.com
 
 [English](en/) · [日本語](ja/) · [中文](zh/) · [Español](es/)

@@ -9,6 +9,7 @@ lang: ja
 
 - [プライバシーポリシー](privacy)
 - [確率情報](odds)
+- [アカウント削除のご案内](delete-account)
 - お問い合わせ: omeano.kim@gmail.com
 
 [한국어](../) · [English](../en/) · [中文](../zh/) · [Español](../es/)
