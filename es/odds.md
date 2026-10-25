@@ -24,12 +24,13 @@ Si sale un empleado, se elige una rareza y luego uno de los 5 empleados de esa r
 
 | Rareza | Probabilidad de rareza | Probabilidad por empleado | Empleados |
 | --- | --- | --- | --- |
-| Común | 75% | 15% | Exfoliador aprendiz, Ayudante de cafetería, Limpiador novato, Fogonero novato, Recepcionista novato |
-| Raro | 22% | 4,4% | Exfoliador veterano, Chef de aperitivos, Limpiador meticuloso, Fogonero de confianza, Recepcionista sonriente |
+| Común | 60% | 12% | Exfoliador aprendiz, Ayudante de cafetería, Limpiador novato, Fogonero novato, Recepcionista novato |
+| Raro | 28% | 5,6% | Exfoliador veterano, Chef de aperitivos, Limpiador meticuloso, Fogonero de confianza, Recepcionista sonriente |
+| Épico | 9% | 1,8% | Experto del exfoliado, Barista de sikhye, As de la limpieza, Ingeniero de calderas, Conserje amable |
 | Legendario | 3% | 0,6% | Maestro legendario del exfoliado, Maestro del huevo asado, Rey del brillo, Maestro de las calderas, Gerente veterano |
 
-- Probabilidad total si tienes al menos 1 empleado: EXP de entrenamiento 50%, cada empleado común 7,5%, cada raro 2,2%, cada legendario 0,3%.
-- Si sale un empleado que ya tienes, se convierte en EXP para ese empleado (común 60, raro 150, legendario 400).
+- Probabilidad total si tienes al menos 1 empleado: EXP de entrenamiento 50%, cada empleado común 6%, cada raro 2,8%, cada épico 0,9%, cada legendario 0,3%.
+- Si sale un empleado que ya tienes, se convierte en EXP para ese empleado (común 60, raro 150, épico 250, legendario 400).
 
 ## 2. Cofre de la toalla de la suerte
 
@@ -44,4 +45,4 @@ Cómo conseguirlo: ver un anuncio con recompensa (5 al día). No se vende por di
 
 - Paquete inicial: 300 gemas + 1 empleado raro (elegido con la misma probabilidad entre los raros que aún no tienes; 150 de EXP si ya los tienes todos) + disfraz Toalla de oveja (para los clientes familia de nutrias)
 
-- Última actualización: 21 de octubre de 2026
+- Última actualización: 26 de octubre de 2026
